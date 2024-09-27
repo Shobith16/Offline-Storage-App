@@ -7,7 +7,7 @@ import 'package:http_parser/http_parser.dart';
 import 'package:file_picker/file_picker.dart';
 import 'package:hive_flutter/hive_flutter.dart';
 import 'package:connectivity_plus/connectivity_plus.dart';
-
+//Testing demo
 void main() async {
   WidgetsFlutterBinding.ensureInitialized();
   await Hive.initFlutter();
